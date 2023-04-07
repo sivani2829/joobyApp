@@ -1,0 +1,40 @@
+/* .main-conatainer {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  height: 100vh;
+}
+.search-container {
+  width: 20%;
+  margin-left: 50px;
+}
+.profile-name {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 250px;
+}
+.input-container {
+  margin: 10px;
+  margin-top: 20px;
+}
+.pro-head {
+  color: #4f46e5;
+}
+.pro-para {
+  color: black;
+}
+.hr-class {
+  margin-top: 20px;
+  height: 1.8px;
+  color: white;
+}
+.employment-heading {
+  color: white;
+} */
+
+.job-profile-container {
+  background-color: #000000;
+  display: flex;
+  justify-content: space-around;
+  padding: 23px;
+}

@@ -1,0 +1,16 @@
+.not-container {
+  display: flex;
+  background: black;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-class {
+  width: 300px;
+  height: 500px;
+}
+h1,
+p {
+  color: white;
+}
